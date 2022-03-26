@@ -11,6 +11,6 @@ while true; do
 done &
 
 # Set wallpaper
-feh --bg-fill ~/Images/Wallpaper/Favoris/ISS-view-4.jpg
+#feh --bg-fill ~/Images/Wallpaper/Favoris/ISS-view-4.jpg
 
 exec /usr/local/bin/dwm
